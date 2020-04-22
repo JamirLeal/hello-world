@@ -1,2 +1,2 @@
 # hello-world
-This is a class project to show an example to work in github
+Hola, estoy muy encantado de que puedas conocer más sobre este nuevo proyecto que he creado.
